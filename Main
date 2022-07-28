@@ -1,0 +1,19 @@
+package exercise;
+
+public class ExerciseMain {
+
+    public static void main(String[] args) {
+
+        int number = 1;
+        long numberLong = 45154;
+        double numberDouble = 54.5;
+        boolean bool = true;
+        String name = "Name";
+
+        System.out.println(number);
+        System.out.println(numberLong);
+        System.out.println(numberDouble);
+        System.out.println(bool);
+        System.out.println(name);
+    }
+}
